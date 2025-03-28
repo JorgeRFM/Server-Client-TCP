@@ -10,8 +10,8 @@ Servidor TCP/IP persistente que maneja múltiples conexiones cliente secuencialm
 ## Instalación
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/servidor-tcp.git
-cd servidor-tcp
+git clone https://github.com/JorgeRFM/Server-Client-TCP
+cd Server-Client-TCP
 ```
 ### Ejecutar el Servidor y cliente
 2. Guarda el código del servidor en un archivo `ServidorTCP.py`
