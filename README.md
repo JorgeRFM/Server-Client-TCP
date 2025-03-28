@@ -12,14 +12,15 @@ Servidor TCP/IP persistente que maneja múltiples conexiones cliente secuencialm
 ```bash
 git clone https://github.com/tu-usuario/servidor-tcp.git
 cd servidor-tcp
-
+```
 ### Ejecutar el Servidor y cliente
-1. Guarda el código del servidor en un archivo `ServidorTCP.py`
-2. Guarda el código del servidor en un archivo `ClienteTCP.py`
-3. Ejecuta el servidor con:
+2. Guarda el código del servidor en un archivo `ServidorTCP.py`
+3. Guarda el código del servidor en un archivo `ClienteTCP.py`
+4. Ejecuta el servidor con:
    ```bash
    python ServidorTCP.py
-4. Ejecuta el cliente con:
+   ```
+5. Ejecuta el cliente con:
    ```bash
    python ClienteTCP.py
-5. En caso de pruebas manuales presionar 1 y escribir con letras lo que se desea probar
+6. En caso de pruebas manuales presionar 1 y escribir con letras lo que se desea probar
